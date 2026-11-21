@@ -1,18 +1,23 @@
 # Simple Todo List
 
-## Overview
-Simple Todo List is a lightweight web application that allows users to manage daily tasks efficiently. Users can add, edit, complete, and delete tasks while the application stores data locally in the browser.
+A lightweight to-do app in plain HTML, CSS and JavaScript. Tasks are saved in the browser, so they are still there after a page reload.
+
+**Live demo:** [sameeulkhondokerjisan.github.io/todo-list-webapp](https://sameeulkhondokerjisan.github.io/todo-list-webapp/)
 
 ## Features
+
 - Add new tasks
 - Mark tasks as completed
-- Edit tasks with double-click
+- Edit a task by double-clicking it
 - Delete tasks
-- Automatic saving using LocalStorage
-- Responsive modern interface
+- Automatic saving with LocalStorage
+- Responsive layout
 
 ## Technologies
-- HTML
-- CSS
-- JavaScript
+
+- HTML (`index.html`), CSS (`style.css`) and JavaScript (`script.js`)
 - Browser LocalStorage
+
+## Run Locally
+
+Open `index.html` in any browser. No build step or server is needed.
